@@ -4,7 +4,7 @@
 I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL.
 I also enjoy creating business focused dashboards in PowerBI.
 
-Skills: Python / SQL / PowerBI
+Skills: • Python (Programming Language) • SQL • Power BI • Microsoft Excel • Microsoft Word 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslamfaleel)](https://github.com/anuraghazra/github-readme-stats)
 
