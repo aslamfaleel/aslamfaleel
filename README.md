@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL.
-I also enjoy creating dashboards in PowerBI and creating business focused dashboards in general.
+I also enjoy creating business focused dashboards in PowerBI.
 
 
 
