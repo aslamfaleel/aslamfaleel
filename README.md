@@ -1,9 +1,19 @@
 ## Hi there 👋
+#### Accountant and Aspiring Data Engineer
 
 I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL.
 I also enjoy creating business focused dashboards in PowerBI.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslamfaleel)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Hi there 👋, my name is Aslam
+#### Accountant and Aspiring Data Engineer
+I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL. I also enjoy creating business focused dashboards in PowerBI.
+
+Skills: Python / SQL / PowerBI
+
+- 🔭 I’m currently working on this page. 
 
 
 <!--
