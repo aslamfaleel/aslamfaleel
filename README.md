@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aslam
+### 👋 Hi, I'm Aslam!
 #### Accountant aspiring to become a Data Engineer
 
 I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL.
