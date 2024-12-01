@@ -1,4 +1,4 @@
-### 👋 <span class="wave">👋</span> Hi, I'm Aslam!
+###  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40"> 😃 Hi, I'm Aslam!
 #### Accountant aspiring to become a Data Engineer
 
 I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL.
@@ -13,7 +13,7 @@ Skills: Python / SQL / PowerBI
 **aslamfaleel/aslamfaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋
 - 🔭 I’m currently working on Python and SQL.
 - 🌱 I’m currently learning Python and SQL.
 - 👯 I’m looking to collaborate on Python and SQL.
