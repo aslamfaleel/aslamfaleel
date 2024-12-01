@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Aslam from Canada. I am an Accountant, aspiring to become a Data Engineer. I am currently in the pursuit of learning Python and SQL.
+I also enjoy creating dashboards in PowerBI and creating business focused dashboards in general.
+
+
+
 <!--
 **aslamfaleel/aslamfaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
