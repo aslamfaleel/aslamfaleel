@@ -1,7 +1,7 @@
 ###  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40"> 😃 Hi, I'm Aslam!
 #### Accountant aspiring to become a Data Engineer
 
-I am Aslam from Canada, an Accountant aspiring to become a Data Engineer. I am currently pursuing learning Python and SQL.
+I am Aslam from Canada, an Accountant aspiring to become a Data Analyst. I am currently pursuing learning Python and SQL.
 I also enjoy creating business focused dashboards in PowerBI.
 
 Skills: • Python (Programming Language) • SQL • Power BI • Microsoft Excel • Microsoft Word 
