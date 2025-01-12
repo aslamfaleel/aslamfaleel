@@ -1,5 +1,5 @@
 ###  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40"> 😃 Hi, I'm Aslam!
-#### Accountant aspiring to become a Data Analyst
+#### Accountant aspiring to improve capabilities in Analytics and Presentations.
 
 I am Aslam from Canada, an Accountant aspiring to enhance my capabilities in Analytics and Presentations. I am currently pursuing learning Python and SQL.
 I also enjoy creating business focused dashboards in PowerBI.
